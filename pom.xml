@@ -8,9 +8,7 @@
     <artifactId>hub</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>Hub</name>     
-
-    <name>hub</name>
+    <name>Hub</name>
 
     <distributionManagement>
        <repository>
