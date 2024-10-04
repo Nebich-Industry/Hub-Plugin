@@ -9,7 +9,6 @@ public final class Hub extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        this.saveDefaultConfig();
         Bukkit.getLogger().info("[Hub] Plugin activé.");
         Objects.requireNonNull(this.getCommand("hub")).setExecutor(new Hub());
     }
