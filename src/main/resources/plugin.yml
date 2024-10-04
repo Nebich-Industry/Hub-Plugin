@@ -2,3 +2,7 @@ name: hub
 version: '1.0-SNAPSHOT'
 main: org.nebich.hub.Hub
 api-version: '1.21'
+commands:
+  infected:
+    description: Hub plugin command
+    usage: /hub
